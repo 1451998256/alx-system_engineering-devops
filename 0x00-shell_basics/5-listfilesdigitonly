@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -lna
+chmod u+x 5-listfilesdigitonly
