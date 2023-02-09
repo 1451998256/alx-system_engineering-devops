@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -map
+03-commas
