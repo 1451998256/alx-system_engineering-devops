@@ -96,3 +96,7 @@ i
 
 
 echo "grep -c bin /etc/passwd
+grep -c bin /etc/passwd'>>15-countthatword
+chmod u+x 15-countthatword
+echo grep -c bin /etc/passwd>>15-countthatword
+echo "grep -c bin /etc/passwd
