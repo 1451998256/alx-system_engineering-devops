@@ -2,4 +2,3 @@
 echo $(($POWER/$DIVIDE))
 9-divide_and_rule
 
-
