@@ -1,0 +1,4 @@
+#!/bin/bash
+echo $(($POWER/$DIVIDE))
+9-divide_and_rule
+chmod u+x 9-divide_and_rule
